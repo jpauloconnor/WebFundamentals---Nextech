@@ -1,0 +1,44 @@
+/*2*/
+body {
+	background-color: blue;
+}
+
+/*this styles everything within the css-classes class*/
+.bronze-div {
+	background-color: lightgray;
+}
+
+
+.the-ugliest-div-ever{
+	background-color: lime;
+	font-size: 36px;
+}
+
+.the-ugliest-div-ever h3{
+	font-size: 18px;
+}
+
+
+.the-nastiest-purple-on-the-planet{
+	background-color: purple;
+}
+
+
+/*this styles all the p tags within the css-classes class*/
+
+.bronze-div h1{
+	font-size: 18px;
+}
+
+
+/*
+.bronze-div p{
+	font-size: 16px;
+	color: green;
+	
+}
+*/
+/*this styles all the li items within the bronze-div class*/
+.bronze-div li{
+	color: navy;
+}
