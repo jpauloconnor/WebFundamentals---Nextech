@@ -1,7 +1,6 @@
 "I live in Westfield";
 'I have 2 kids';
 
-'     '
 
 var username = "jpauloconnor";
 var password = "Letmein1234!";
@@ -20,6 +19,7 @@ tweet = "23 > 23";
 var birthCity = "Indianapolis";
 var birthState = "Indiana";
 var comma = ", "
+
 //Concatentation
 console.log(birthCity + comma + birthState);
 
