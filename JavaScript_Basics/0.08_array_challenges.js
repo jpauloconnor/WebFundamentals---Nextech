@@ -22,5 +22,10 @@ console.log(favoriteCandy);
 
 
 
+var name = ['P','a','u','l'];
+var revName = name.reverse().join('');
+console.log(revName);
+
+
 
 
